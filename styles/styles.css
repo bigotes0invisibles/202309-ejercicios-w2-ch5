@@ -62,3 +62,33 @@ h1 {
   width: 20rem;
   padding: 1rem;
 }
+
+h2 {
+  font-size: 35px;
+  padding: 1rem;
+  margin-left: 10%;
+}
+
+article {
+  position: relative;
+}
+
+.cards-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.card {
+  width: 370px;
+  height: 9rem;
+  padding: 10px 20px 1rem 1rem;
+  background-color: #ccc;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 24px;
+  margin: 10px 0;
+}
